@@ -9,32 +9,32 @@ IBAN UA543206490000026001052699278
 ### **Оплата внесків**
 **При оплаті завжди перевіряйте номер рахунку, назву і ЄДРПОУ одержувача та вказуйте свій особовий рахунок в призначенні платежу**
 
-* Свій особовий рахунок можна дізнатися за посиланням [http://bit.ly/h38a-accounts](http://bit.ly/h38a-accounts) або ж в системі OSBB-online в своєму особистому кабінеті [деталі тут](#наш-будинок-в-системі-osbb-online)
-* Способи оплати внесків та інструкції[ http://bit.ly/h38a-how-to-pay](http://bit.ly/h38a-how-to-pay)
+* Свій особовий рахунок можна дізнатися за посиланням [bit.ly/h38a-accounts](http://bit.ly/h38a-accounts) або ж в системі OSBB-online в своєму особистому кабінеті, деталі в розділі [Наш будинок в системі OSBB-online](#наш-будинок-в-системі-osbb-online)
+* Способи оплати внесків та інструкції [bit.ly/h38a-how-to-pay](http://bit.ly/h38a-how-to-pay)
 * Розмір внеску 9.78 грн/м<sup>2</sup>
 
 ### **Контактна інформація**
-* Охорона/диспетчер (цілодобово) 0442280663
+* Охорона/диспетчер (цілодобово) [(044) 228-06-63](tel:0442280663)
 * e-mail: [h38a.osbb@gmail.com](mailto:h38a.osbb@gmail.com)
 * Офіційна сторінка ОСББ в Facebook: [bit.ly/h38a-fb](http://bit.ly/h38a-fb)
 * Канали для важливих повідомлень:
   * Viber: [bit.ly/h38a-viber](http://bit.ly/h38a-viber)
   * Telegram: [bit.ly/h38a-telegram](http://bit.ly/h38a-telegram)
-* Группа для мешканців першого будинку ЖК [http://bit.ly/h38a-fb-1](http://bit.ly/h38a-fb-1)
+* Группа для мешканців першого будинку ЖК [bit.ly/h38a-fb-1](http://bit.ly/h38a-fb-1)
 
 ### **Електронний журнал заявок, скарг та пропозицій**
-* Деталі за посиланням [http://bit.ly/h38a-issues-faq](http://bit.ly/h38a-issues-faq)
+* Деталі за посиланням [bit.ly/h38a-issues-faq](http://bit.ly/h38a-issues-faq)
 
 ### **Наш будинок в системі OSBB-online**
-* Статистична інформація по нашому будинку доступна для зареєстрованих та ідентифікованих користувачів тут [http://bit.ly/h38a-osbb-online](http://bit.ly/h38a-osbb-online) 
+* Статистична інформація по нашому будинку доступна для зареєстрованих та ідентифікованих користувачів тут [bit.ly/h38a-osbb-online](http://bit.ly/h38a-osbb-online) 
 
-В особистому кабінеті є можливість отримання квитанції та оплати внеску (**оплата з кабінету тимчасово не працює.** Використовуйте [альтернативні варіанти](#heading=h.1dbeu7scenz8)).
+В особистому кабінеті є можливість отримання квитанції та оплати внеску (**оплата з кабінету тимчасово не працює.** Використовуйте альтернативні варіанти зазначені в розділі [Оплата внесків](#оплата-внесків)).
 Для отримання коду ідентифікації після реєстрації в системі напишіть листа на пошту [h38a.osbb@gmail.com](mailto:h38a.osbb@gmail.com), вказавши номер квартири та ім'я користувача в системі OSBB-online
 
 ### **Передача показників лічильників**
-* теплового та лічильника гарячої води[ https://kte.kmda.gov.ua/my-cabinet](https://kte.kmda.gov.ua/my-cabinet?fbclid=IwAR3ygOxtEYwfRf8EEStf5v6JJWXbqbZI-rSG-vB0dohUXhQRmVt-V4LQH5E)
-* холодного водопостачання та відведення гарячої води[ https://my.vodokanal.kiev.ua/](https://my.vodokanal.kiev.ua/?fbclid=IwAR2O4rEBMY6KxX0VQaTn8hG5T-DAT_cDXs07Upz0PyrQinZn_2vXpFsOiws)
-* електроенергії[ https://www.my.kyiv.yasno.com.ua/](https://www.my.kyiv.yasno.com.ua/?fbclid=IwAR0VJMRQCwwtmK0AHYYx9X9AV9-bJwY-zZsRURDfjGTZF4G10plkiwNsFj8)
+* теплового та лічильника гарячої води [kte.kmda.gov.ua/my-cabinet](https://kte.kmda.gov.ua/my-cabinet)
+* холодного водопостачання та відведення гарячої води [my.vodokanal.kiev.ua/](https://my.vodokanal.kiev.ua/)
+* електроенергії [my.kyiv.yasno.com.ua/](https://www.my.kyiv.yasno.com.ua/)
 
 ### **Статутні органи ОСББ**
 * [Правління ](https://docs.google.com/document/d/1d7HIYfjDTOu61M4SUHwi9FZSdCkdpm2HhNZmWEAYSCs/edit?usp=sharing)
