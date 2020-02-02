@@ -18,8 +18,8 @@ IBAN UA543206490000026001052699278
 * e-mail: [h38a.osbb@gmail.com](mailto:h38a.osbb@gmail.com)
 * Офіційна сторінка ОСББ в Facebook: [bit.ly/h38a-fb](http://bit.ly/h38a-fb)
 * Канали для важливих повідомлень:
-<sub>  * Viber: [bit.ly/h38a-viber](http://bit.ly/h38a-viber)
-<sub>  * Telegram: [bit.ly/h38a-telegram](http://bit.ly/h38a-telegram)
+  * Viber: [bit.ly/h38a-viber](http://bit.ly/h38a-viber)
+  * Telegram: [bit.ly/h38a-telegram](http://bit.ly/h38a-telegram)
 * Группа для мешканців першого будинку ЖК [http://bit.ly/h38a-fb-1](http://bit.ly/h38a-fb-1)
 
 ### **Електронний журнал заявок, скарг та пропозицій**
@@ -44,9 +44,9 @@ IBAN UA543206490000026001052699278
 * [Протокол установчих зборів 08 вересня 2018 року](https://drive.google.com/file/d/1SlXVGHamvOa_zyRH9eh1oRSo0A4I7P_6/view?usp=sharing)
 * [Статут ОСББ](https://drive.google.com/open?id=14xIC6sDIH4-A1g7vS4oVjTHgiFJnv7w8)
 * [Протокол Загальних Зборів 19 жовтня 2019 року](bit.ly/h38a-19-10-2019)
-<sub>    * [Поквартирні результати голосування](http://bit.ly/h38a-zz2)
-<sub>    * [Кошторис](https://drive.google.com/file/d/1lE4QNSAPhHOAKDgqAVJjJ9PPpJm6dVmP/view)
-<sub>    * [Правила проживання](https://docs.google.com/document/d/1v5XoXLcFXOm3NxiNGJ7b74o8DPgRBsbY7uEgdSgEIfo/edit?usp=sharing)
+  * [Поквартирні результати голосування](http://bit.ly/h38a-zz2)
+  * [Кошторис](https://drive.google.com/file/d/1lE4QNSAPhHOAKDgqAVJjJ9PPpJm6dVmP/view)
+  * [Правила проживання](https://docs.google.com/document/d/1v5XoXLcFXOm3NxiNGJ7b74o8DPgRBsbY7uEgdSgEIfo/edit?usp=sharing)
 
 #### **Протоколи засідань Правління**
 * [№1 27 вересня 2018 року](https://drive.google.com/file/d/12Sn6l7H3_lMCg0IYRTToSloIuHhndL2C/view?usp=sharing)
